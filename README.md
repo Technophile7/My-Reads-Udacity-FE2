@@ -1,9 +1,9 @@
 # MyReads Project
 
 A book application, allowing user to dynamically store and categorize books in different shelves :-
-.1 currently reading
-.2 want to read
-.3 read
+.>1 currently reading
+.>2 want to read
+.>3 read
 
 ## TL;DR
 To get started in right away:
